@@ -35,7 +35,7 @@ Tools        :: uv, Git
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=0D1117&vCenter=true&width=600&lines=Building+AI+%40+CRSS+%2E+%2E+%2E;Engineering+ML+pipelines+%2E+%2E+%2E;Shipping+intelligent+systems+%2E+%2E+%2E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&background=0D1117&vCenter=true&width=450&lines=Building+AI+%40+CRSS+%2E+%2E+%2E;Engineering+ML+pipelines+%2E+%2E+%2E;Shipping+intelligent+systems+%2E+%2E+%2E" alt="Typing SVG" />
 </a>
 
 <!-- TODO: Spotify Now Playing widget -->
