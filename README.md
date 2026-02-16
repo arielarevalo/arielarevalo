@@ -39,3 +39,7 @@ Coding Agent      :: Claude Code
 </a>
 
 <!-- TODO: Spotify Now Playing widget -->
+
+## 📄 Resume
+
+[Download my resume](./assets/resume.pdf)
