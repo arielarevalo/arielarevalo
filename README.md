@@ -1,5 +1,5 @@
 
-### About Me
+## About Me
 
 ---
 
@@ -22,7 +22,7 @@ interests:
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 ```sh
 $ cat tech_stack.txt
@@ -34,7 +34,7 @@ Coding Agent      :: Claude Code
 
 ---
 
-### [Resume](./assets/resume.pdf)
+## [Resume](./assets/resume.pdf)
 
 ---
 
