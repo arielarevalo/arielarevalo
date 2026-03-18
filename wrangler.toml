@@ -1,0 +1,18 @@
+name = "flypaper"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[assets]
+directory = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "flypaper-db"
+database_id = "placeholder-replace-with-actual-id"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "placeholder-replace-with-actual-id"
+
+[vars]
+DASHBOARD_SECRET = "change-me-in-production"
