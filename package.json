@@ -1,0 +1,11 @@
+{
+  "name": "arielarevalo-profile",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "cover": "node generators/generate-cover.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3"
+  }
+}
